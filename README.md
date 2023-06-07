@@ -461,7 +461,7 @@ Contact.html
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+ ![output](./images/homepage.jpg)
 
 ## Result:
 
