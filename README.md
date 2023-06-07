@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```Layout.css
+```python Layout.css
 
 * {
   box-sizing: border-box;
