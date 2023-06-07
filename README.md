@@ -461,7 +461,8 @@ Contact.html
 
 ### Home Page:
 
- ![output](./images/homepage.jpg)
+![image](https://github.com/vinushcv/productcompanywebsite/assets/113975318/628b4411-b805-483e-a51a-1e7c70a472d5)
+
 
 ## Result:
 
