@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-Layout.css
+```Layout.css
 
 * {
   box-sizing: border-box;
@@ -438,7 +438,7 @@ Contact.html
     </body>
 
 </html>
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/vinushcv/productcompanywebsite/assets/113975318/e5b5155c-9214-4b00-8814-aefbd13d086c)
